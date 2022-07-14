@@ -1,8 +1,7 @@
 ## Olá, me chamo Sylvio !
 ### Bem vindo ao meu perfil GitHub 👋
 
-- :four_leaf_clover: Estou a procura de uma primeira oportunidade como desenvolvedor front-end Jr.
-- :rocket: Atualmente sou estudante de Desenvolvimento web Full Stack
+- :rocket: Atualmente sou estudante de Desenvolvimento web Full Stack.
 
 <div>
 <a href="https://github.com/nobregasylvio">
