@@ -1,7 +1,7 @@
 ## Olá, me chamo Sylvio !
 ### Bem vindo ao meu perfil GitHub 👋
 
-- :rocket: Atualmente sou estudante de Desenvolvimento web Full Stack.
+- :rocket: Estudante de Desenvolvimento web Full Stack Na Trybe.
 
 <div>
 <a href="https://github.com/nobregasylvio">
