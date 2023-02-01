@@ -1,7 +1,12 @@
-## Olá, me chamo Sylvio !
-### Bem vindo ao meu perfil GitHub 👋
+## Olá, seja bem vindo ao meu perfil GitHub 👋
 
-- :rocket: Desenvolvedor Web Back-end
+Meu nome é Sylvio, tenho 27 anos e sou natural de Suzano - SP.
+
+Sou apaixonado por desafios, tecnologias e desenvolvimento pessoal.
+
+Sou um desenvolvedor back-end e estou a procura de uma primeira oportunidade de emprego como desenvolvedor para poder mostrar todo o meu potencial e conhecimento adquirido através de estudos e projetos, tanto projetos pessoais como escolares.
+
+Atualmente estou Cursando o 1º semestre do ensino superior tecnólogo em análise e desenvolvimento de sistemas na FAM e estou no último módulo do curso de Desenvolvimento web Full Stack na Trybe. :rocket:
 
 ### Contato:
 <div>
