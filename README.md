@@ -6,7 +6,12 @@ Sou apaixonado por desafios, tecnologias e desenvolvimento pessoal.
 
 Sou um desenvolvedor back-end e estou a procura de uma primeira oportunidade de emprego como desenvolvedor para poder mostrar todo o meu potencial e conhecimento adquirido através de estudos e projetos, tanto projetos pessoais como escolares.
 
-Atualmente estou Cursando o 1º semestre do ensino superior tecnólogo em análise e desenvolvimento de sistemas na FAM e estou no último módulo do curso de Desenvolvimento web Full Stack na Trybe. :rocket:
+Atualmente estou Cursando o 1º semestre do ensino superior em análise e desenvolvimento de sistemas na FAM e estou no último módulo do curso de Desenvolvimento web Full Stack na Trybe. :rocket:
+
+<div>
+<a href="https://github.com/nobregasylvio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobregasylvio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Contato:
 <div>
