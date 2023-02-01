@@ -1,7 +1,7 @@
 ## Olá, me chamo Sylvio !
 ### Bem vindo ao meu perfil GitHub 👋
 
-- :rocket: Estudante de Desenvolvimento web Full Stack Na Trybe.
+- :rocket: Desenvolvedor Web Back-end
 
 ### Contato:
 <div>
