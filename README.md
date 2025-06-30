@@ -1,6 +1,6 @@
 # Olá! Eu sou o Sylvio 👋
 
-🎓 Estudante de **Ciência da Computação**  
+🎓 Cursando Bacharel em **Ciência da Computação**  
 💻 Desenvolvedor web em transição de carreira  
 🔧 Técnico em Eletromecânica com experiência em **manutenção industrial** e **automação**  
 📚 Concluí um curso de **Desenvolvimento Web Full Stack** com 1200 horas de carga horária  
