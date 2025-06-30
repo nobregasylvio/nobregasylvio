@@ -3,7 +3,7 @@
 🎓 Cursando Bacharel em **Ciência da Computação**  
 💻 Desenvolvedor web em transição de carreira  
 🔧 Técnico em Eletromecânica com experiência em **manutenção industrial** e **automação**  
-📚 Concluí um curso de **Desenvolvimento Web Full Stack** com 1200 horas de carga horária  
+📚 Concluí um curso de **Desenvolvimento Web Full Stack** com 1500 horas de carga horária  
 🎯 Buscando oportunidades como **desenvolvedor web**, aplicando minha bagagem técnica para criar soluções eficientes e bem estruturadas
 
 ---
